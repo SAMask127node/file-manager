@@ -44,7 +44,6 @@ export const renameFile = async (path_1, path_2) => {
     newStream.on("close", async () => {
       await fs.promises.rename(path_1, path_2);
       await currentDirectoryMessage();
-      ls;
     });
   } catch (error) {
     await errors.operationFailed();
