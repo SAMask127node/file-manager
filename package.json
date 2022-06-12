@@ -1,0 +1,25 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "This repository is the part of nodejs-assignments https://github.com/AlreadyBored/nodejs-assignments : https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAMask127node/file-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "assignments",
+    "SAMask127node"
+  ],
+  "author": "SAMask127node",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAMask127node/file-manager/issues"
+  },
+  "homepage": "https://github.com/SAMask127node/file-manager#readme"
+}
