@@ -74,6 +74,7 @@ I have created a file: **123.txt** with following texh
 
 ---
 </code></pre>
+[123.txt](https://github.com/SAMask127node/file-manager/files/8886381/123.txt)
 ### Basic operations with files // Для системных папок тебуется доп. адм доступ, поэтому тестируем в папке пользователя
 <pre><code>
 > cat 123.txt 
@@ -222,3 +223,4 @@ You are currently in C:\Users\alexa
 > decompress 123.txt.gz /documents/123.txt
   You are currently in C:\Users\alexa
 </code></pre>
+
